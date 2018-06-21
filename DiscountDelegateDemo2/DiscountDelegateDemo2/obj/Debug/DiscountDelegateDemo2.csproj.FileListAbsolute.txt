@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DiscountDelegateDemo2\DiscountDelegateDemo2\bin\Debug\DiscountDelegateDemo2.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DiscountDelegateDemo2\DiscountDelegateDemo2\bin\Debug\DiscountDelegateDemo2.exe
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DiscountDelegateDemo2\DiscountDelegateDemo2\bin\Debug\DiscountDelegateDemo2.pdb
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DiscountDelegateDemo2\DiscountDelegateDemo2\obj\Debug\DiscountDelegateDemo2.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DiscountDelegateDemo2\DiscountDelegateDemo2\obj\Debug\DiscountDelegateDemo2.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DiscountDelegateDemo2\DiscountDelegateDemo2\obj\Debug\DiscountDelegateDemo2.exe
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DiscountDelegateDemo2\DiscountDelegateDemo2\obj\Debug\DiscountDelegateDemo2.pdb

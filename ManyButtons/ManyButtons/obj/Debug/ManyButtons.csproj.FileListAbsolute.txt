@@ -1,0 +1,10 @@
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\ManyButtons\ManyButtons\bin\Debug\ManyButtons.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\ManyButtons\ManyButtons\bin\Debug\ManyButtons.exe
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\ManyButtons\ManyButtons\bin\Debug\ManyButtons.pdb
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\ManyButtons\ManyButtons\obj\Debug\ManyButtons.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\ManyButtons\ManyButtons\obj\Debug\ManyButtons.Form1.resources
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\ManyButtons\ManyButtons\obj\Debug\ManyButtons.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\ManyButtons\ManyButtons\obj\Debug\ManyButtons.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\ManyButtons\ManyButtons\obj\Debug\ManyButtons.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\ManyButtons\ManyButtons\obj\Debug\ManyButtons.exe
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\ManyButtons\ManyButtons\obj\Debug\ManyButtons.pdb

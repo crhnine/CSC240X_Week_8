@@ -1,0 +1,4 @@
+I added some functionality to the Bank Demo program in the You Do It section of Chapter 13.
+This functionality included an exception and conditional statements that may be seen in a 
+real world program to build resiliency. I could potentially remove this if you want but thought 
+I could use the practice. 

@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DemoBankEvent\DemoBankEvent\bin\Debug\DemoBankEvent.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DemoBankEvent\DemoBankEvent\bin\Debug\DemoBankEvent.exe
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DemoBankEvent\DemoBankEvent\bin\Debug\DemoBankEvent.pdb
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DemoBankEvent\DemoBankEvent\obj\Debug\DemoBankEvent.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DemoBankEvent\DemoBankEvent\obj\Debug\DemoBankEvent.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DemoBankEvent\DemoBankEvent\obj\Debug\DemoBankEvent.exe
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DemoBankEvent\DemoBankEvent\obj\Debug\DemoBankEvent.pdb

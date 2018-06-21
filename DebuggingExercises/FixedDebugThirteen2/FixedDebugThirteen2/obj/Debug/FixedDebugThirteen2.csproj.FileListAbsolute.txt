@@ -1,0 +1,7 @@
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DebuggingExercises\FixedDebugThirteen2\FixedDebugThirteen2\bin\Debug\FixedDebugThirteen2.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DebuggingExercises\FixedDebugThirteen2\FixedDebugThirteen2\bin\Debug\FixedDebugThirteen2.exe
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DebuggingExercises\FixedDebugThirteen2\FixedDebugThirteen2\bin\Debug\FixedDebugThirteen2.pdb
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DebuggingExercises\FixedDebugThirteen2\FixedDebugThirteen2\obj\Debug\FixedDebugThirteen2.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DebuggingExercises\FixedDebugThirteen2\FixedDebugThirteen2\obj\Debug\FixedDebugThirteen2.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DebuggingExercises\FixedDebugThirteen2\FixedDebugThirteen2\obj\Debug\FixedDebugThirteen2.exe
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\DebuggingExercises\FixedDebugThirteen2\FixedDebugThirteen2\obj\Debug\FixedDebugThirteen2.pdb

@@ -1,0 +1,120 @@
+
+
+Week 8 Assignment
+
+1. Create a project named PickLarger with a Form.
+
+Function:
+1. In the project create two arrays, each containing 100 numbers.
+2. Start with each array's position and compare the two to find the largest.
+	So for example position "0" in  each array will be the first to get compared
+	and then 1 and so on. User attempts to select on Button Click which array
+	currently has the largest number.
+
+	My current assumption is that it will be best to check the arrays in the button
+	click events. At which point to add to the tally of correct guesses or not.
+	
+
+	int index_counter = 0;
+	int correct_guesses = 0;
+	int incorrect_guesses = 0;
+	
+	const int MAX = 100;
+	int attempts = 0;
+
+
+	//OnButton1_Click(object sender, EventArgs e){
+	
+
+		if(array1[index_counter] > array2[index_counter]){
+
+			
+
+
+			++correct_guesses;			
+
+		}
+		nextButton.Visible = true;
+		nextButton.Enabled = true;
+		button1.Enabled = false;
+
+		++index_counter;
+		++attempts;
+
+		if(attempts >= MAX){
+		
+			index_counter = 0;
+			
+		}
+
+	//}
+
+	//OnButton2_Click(object sender, EventArgs e){
+
+
+		if(array2[index_counter] > array1[index_counter]){
+
+
+			nextButton.Visible = true;
+			
+
+			++correct_guesses;
+
+		}
+
+			++index_counter;
+			++attempts;
+
+
+			if(attempts >= MAX){
+
+				
+				index_counter = 0;
+			}
+	//}
+
+	//OnNextButton_Click(object sender, EventArgs e){
+
+
+		button3.Enabled = false;
+		button1.Enabled = true;
+		button2.Enabled = true;
+
+	//}
+
+
+
+Disabling controls in form: 
+
+foreach (Control item in this.Controls)
+                {
+                    item.Enabled = false;
+                }
+
+3. Program also has to keep a running track of incorrect guesses.
+4. Based on the logic of the problem statement, after 100 guesses the subscript for the array
+	needs to reset to 0, and once this happens then the arrays should generate a new random
+	set of 100 numbers.
+
+
+
+
+
+5. To run test on button clicks we need:
+
+	A. Array 1 is larger than array 2 and user clicks button one. Should increment correct_guesses by one.
+	B. Array 1 is smaller than array 2 and user clicks button one. Should increment incorrect_guesses by one.
+	C. Array 1 is larger than array 2 and user clicks button two. Should increment incorrect_guesses by one.
+	D. Array 1 is smaller than array 2 and user clicks button two. Should increment correct_guesses by one.
+
+Condition sets:
+	A. Array 1 = 50; Array 2 = 25;
+	B. Array 1 = 25; Array 2 = 50;
+	C. Array 1 = 50; Array 2 = 25;
+	D. Array 1 = 25; Array 2 = 50;
+Note: Condition tests only require changing code twice. Run Condition A and C together upon exit. Run Condition
+B and D together upon exit.
+
+6. Once conditions check clear, next step is to rebuild arrays once 100 guesses have been made...No point
+in having the same arrays as user will eventually or probably figure this out. New arrays are necessary
+for the next set of 100 guesses.

@@ -1,0 +1,10 @@
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\PickLarger\PickLarger\bin\Debug\PickLarger.exe.config
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\PickLarger\PickLarger\bin\Debug\PickLarger.exe
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\PickLarger\PickLarger\bin\Debug\PickLarger.pdb
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\PickLarger\PickLarger\obj\Debug\PickLarger.csprojResolveAssemblyReference.cache
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\PickLarger\PickLarger\obj\Debug\PickLarger.Form1.resources
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\PickLarger\PickLarger\obj\Debug\PickLarger.Properties.Resources.resources
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\PickLarger\PickLarger\obj\Debug\PickLarger.csproj.GenerateResource.cache
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\PickLarger\PickLarger\obj\Debug\PickLarger.csproj.CoreCompileInputs.cache
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\PickLarger\PickLarger\obj\Debug\PickLarger.exe
+C:\Users\chris\OneDrive\Desktop\Week 8 Assignments\PickLarger\PickLarger\obj\Debug\PickLarger.pdb
